@@ -6,7 +6,7 @@ Me chamo Otavio Celin, tenho 18 anos e estou concluindo o ensino médio integrad
 
 <div align="left">  
 <a href="https://www.instagram.com/_0tavio_celin/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"
 </a>
 </div> 
 
@@ -25,7 +25,7 @@ Me chamo Otavio Celin, tenho 18 anos e estou concluindo o ensino médio integrad
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OtavioCelin&show_icons=true&count_private=true&hide_border=true&title_color=f3f30c&icon_color=fcd111&text_color=ffffff&bg_color=0d1117" alt="Otavio Celin github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OtavioCelin&show_icons=true&count_private=true&hide_border=true&title_color=f3f30c&icon_color=fcd111&text_color=ffffff&bg_color=0d1117" alt="Otavio Celin GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCelin&layout=compact&hide_border=true&title_color=f3f30c&text_color=ffffff&bg_color=0d1117" />
 </div>
 
@@ -33,7 +33,7 @@ Me chamo Otavio Celin, tenho 18 anos e estou concluindo o ensino médio integrad
  
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OtavioCelin}/count.svg" /></p> 
 <br></div>
 
