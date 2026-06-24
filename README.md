@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Otavio Celin, tenho 18 anos e estou concluindo o ensino médio integrado ao curso técnico em informática no IFMT, em Cuiabá, Mato Grosso. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
+Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso Técnico em Informática no IFMT e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
 
 <div align="left">  
 <a href="https://www.instagram.com/_0tavio_celin/" target="_blank">
