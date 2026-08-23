@@ -4,12 +4,6 @@
 
 Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso Técnico em Informática no IFMT e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
 
-<div align="left">  
-<a href="https://www.instagram.com/_0tavio_celin/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"
-</a>
-</div> 
-
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&logoColor=purple&labelColor=0D1117)&nbsp; 
