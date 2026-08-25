@@ -18,16 +18,6 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OtavioCelin&show_icons=true&count_private=true&hide_border=true&title_color=f3f30c&icon_color=fcd111&text_color=ffffff&bg_color=0d1117" alt="Otavio Celin GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCelin&layout=compact&hide_border=true&title_color=f3f30c&text_color=ffffff&bg_color=0d1117" />
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?OtavioCelin=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-
-<div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OtavioCelin}/count.svg" /></p> 
-<br></div>
-
