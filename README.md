@@ -19,4 +19,4 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?OtavioCelin=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?OtavioCelin=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
