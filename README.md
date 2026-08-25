@@ -1,4 +1,4 @@
-# Olá, eu sou o [Otavio]! 👋
+# Olá, eu me chamo Otavio 👋
 
 **`Estudante de Analise e Desenvolvimento de Sistemas`**
 
