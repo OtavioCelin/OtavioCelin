@@ -1,6 +1,6 @@
 # Otavio Celin
 
-**`Estudante de Programação`**
+**`Estudante de Analise e Desenvolvimento de Sistemas`**
 
 Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso Técnico em Informática no IFMT e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
 
@@ -20,3 +20,8 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?OtavioCelin=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
