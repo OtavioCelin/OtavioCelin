@@ -1,9 +1,9 @@
-# Olá, eu me chamo Otavio 👋
+# Olá, eu me chamo Otavio Celin 👋
 
 **`Estudante de Analise e Desenvolvimento de Sistemas`**
 
 ### 🚀 Sobre mim
-Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso Técnico em Informática no IFMT e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
+Tenho 20 anos conclui o Ensino Médio Integrado ao curso Técnico em Informática no IFMT e atualmente estou realizando o curso de Analise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e jogos, sempre em busca de aprender e explorar novas possibilidades nesse universo fascinante.
 
 - 🔭 Atualmente trabalhando em **[Projetos Autonomos]**
 - 🌱 Estudando **[Python, POO,  GIT]**
