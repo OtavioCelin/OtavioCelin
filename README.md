@@ -8,7 +8,7 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
 - 🔭 Atualmente trabalhando em **[Projetos Autonomos]**
 - 🌱 Estudando **[Python, POO,  GIT]**
 - 💬 Pergunte-me sobre **[JavaScript]**
-- 📫 Como me encontrar: **[otaviocelin.ferreira@gmail.com]**
+- 📫 Como me encontrar: **[...]**
 - ⚡ Curiosidade: **[Sou viciado em Café e Xadrez]**
 
 ---
@@ -19,7 +19,6 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -27,8 +26,8 @@ Me chamo Otavio Celin, tenho 20 anos conclui o Ensino Médio Integrado ao curso 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioCelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCelin&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
 ---
